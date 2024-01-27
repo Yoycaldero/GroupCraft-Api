@@ -29,7 +29,7 @@ Implementación de una API diseñada para asegurar la seguridad, eficiencia y es
 - Clerk
 ## Instalacion
 
-cd pryect-sx
+cd server-main
 
 npm install
 
